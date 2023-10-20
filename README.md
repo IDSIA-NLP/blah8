@@ -7,7 +7,7 @@ Project proposal for Biomedical Linked Annotation Hackathon 8
 Arthropods represent the most diverse group of animals on Earth. Their incredible adaptability has allowed them to inhabit diverse ecological niches. However, as biodiversity continues to decline, there is a growing need to understand the genomic and phenotypic adaptability of arthropods. The development of effective NER and RE models is crucial to facilitate this understanding by automating the extraction of valuable trait information from relevant literature.
 
 ![Annotation example](./img/annotations.png "Annotation example")
-Image: Article paragraph with annotated entitie and relations.
+Image: Article paragraph with annotated entities and relations.
 
 ### Project Goals
 1. Develop synthetic annotations created by Large Language Models (LLMs) for NER and RE tasks.

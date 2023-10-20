@@ -4,7 +4,7 @@ Project proposal for Biomedical Linked Annotation Hackathon 8
 ## Utilization of LLMs for the creation of synthetic concept and relation annotated articles for arthropod trait based literature mining.
 
 ### Background
-Arthropods represent the most diverse group of animals on Earth. Their incredible adaptability has allowed them to inhabit diverse ecological niches. However, as biodiversity continues to decline, there is a growing need to understand the genomic and phenotypic adaptability of arthropods. The development of effective NER and RE models is crucial to facilitate this understanding by automating the extraction of valuable trait information from relevant literature.
+Arthropods represent the most diverse group of animals on Earth. Their incredible adaptability has allowed them to inhabit diverse ecological niches. However, as biodiversity continues to decline, there is a growing need to understand the genomic and phenotypic adaptability of arthropods. One avenue to facilitate this understanding is through the extraction of pertinent trait information from the extensive literature available on the subject. We can extract arthropod-trait-value triples from scientific articles using Named Entity Recognition (NER) and Relation Extraction (RE). The development of effective NER and RE models is crucial to facilitate this understanding by automating the extraction of valuable trait information from relevant literature.
 
 ![Annotation example](./img/annotations.png "Annotation example")
 Image: Article paragraph with annotated entities and relations.
